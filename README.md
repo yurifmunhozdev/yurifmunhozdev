@@ -74,6 +74,30 @@ Me chamo Yuri Munhoz, tenho 27 anos e sou natural de Salvador, Bahia. Sou Econom
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Dash"
+    title="Dash" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dash/dash-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Pandas"
+    title="Pandas" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Selenium"
+    title="Selenium" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -108,9 +132,14 @@ Me chamo Yuri Munhoz, tenho 27 anos e sou natural de Salvador, Bahia. Sou Econom
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 
 ### 🌟 Repositórios em Destaque
+
+#### [dashboard-taxa-desemprego](https://github.com/yurifmunhozdev/dashboard-taxa-desemprego)
+Dashboard interativo para análise das taxas de desemprego nos países das Américas. Utiliza web scraping com Selenium para extrair dados do Trading Economics e apresenta visualizações interativas com Dash e Plotly. O projeto inclui múltiplas visualizações como mapas de calor, gráficos de barras, treemaps e tabelas interativas.
 
 #### [idosia](https://github.com/yurifmunhozdev/idosia)
 Projeto desenvolvido com HTML para para auxiliar no monitoramento e gestão da saúde de pessoas idosas. O sistema oferece análises de parâmetros vitais e recomendações personalizadas.
@@ -135,9 +164,10 @@ Repositório de perfil no GitHub.
 
 ### 👨‍💻 Sobre Mim
 
-Economista, Analista de Dados e Desenvolvedor Júnior com experiência em HTML, Python e Streamlit, focado em criar soluções para análise de dados e assistência financeira.
+Economista, Analista de Dados e Desenvolvedor Júnior com experiência em HTML, Python, Dash e Streamlit, focado em criar soluções para análise de dados, visualização de informações e assistência financeira.
 
-- 🔭 Atualmente trabalhando em projetos de análise de dados e dashboards
-- 🌱 Explorando tecnologias para assistência financeira
-- 💼 Desenvolvedor de soluções web e análise de dados
+- 🔭 Atualmente trabalhando em projetos de análise de dados e dashboards interativos
+- 🌱 Explorando tecnologias para visualização de dados e automação de processos
+- 💼 Desenvolvedor de soluções web, dashboards e análise de dados
+- 📊 Especialista em transformar dados complexos em visualizações intuitivas
 - 📫 Entre em contato através do [LinkedIn](https://www.linkedin.com/in/yuri-munhoz-545a4214a/)
